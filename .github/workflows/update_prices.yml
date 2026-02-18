@@ -2,7 +2,7 @@ name: Actualizar Precios DLR
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Cada 2 horas
+    - cron: '*/10 * * * *'
   workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
