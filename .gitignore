@@ -1,0 +1,12 @@
+# Entorno
+.env
+__pycache__/
+*.pyc
+
+# Datos
+instruments_cache.json
+portfolio.json
+
+# IDEs
+.vscode/
+.idea/

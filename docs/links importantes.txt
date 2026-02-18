@@ -1,0 +1,8 @@
+Guía de implementación de MD + OR > Google Colab: https://colab.research.google.com/drive/1c9soomWXRbuRdZB0nuMxVNfO39TwYHGz?usp=sharing
+
+https://remarkets.primary.ventures/
+
+https://apihub.primary.com.ar/assets/apidoc/trading/index.html
+
+https://github.com/matbarofex
+
