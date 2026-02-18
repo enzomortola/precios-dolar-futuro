@@ -50,20 +50,44 @@ def main():
         tickers = get_dlr_tickers()
         if not tickers: return
 
+        # 1. Intentar por WebSocket (Tiempo Real)
         pyRofex.init_websocket_connection(market_data_handler=market_data_handler, error_handler=lambda m: None)
-        pyRofex.market_data_subscription(tickers=tickers)
-        
-        time.sleep(10) # Tiempo para capturar datos
+        pyRofex.market_data_subscription(
+            tickers=tickers, 
+            entries=[pyRofex.MarketDataEntry.BIDS, pyRofex.MarketDataEntry.OFFERS, pyRofex.MarketDataEntry.LAST]
+        )
+        time.sleep(15) 
         pyRofex.close_websocket_connection()
 
+        # 2. Backup REST: Si algún ticker no tiene datos (mercado cerrado), pedir Snapshot histórico
         output = []
+        ahora_iso = datetime.datetime.now().isoformat()
+        
         for t in tickers:
             d = current_data.get(t, {"bid": "S/D", "offer": "S/D", "last": "S/D"})
-            output.append({"ticker": t, "bid": d["bid"], "offer": d["offer"], "last": d["last"], "timestamp": datetime.datetime.now().isoformat()})
+            
+            # Si no hay datos de Websocket, intentamos pedir el Snapshot (petición REST simple)
+            if d["last"] == "S/D":
+                try:
+                    res = pyRofex.get_market_data(tickers=[t], entries=[pyRofex.MarketDataEntry.LAST])
+                    if res['status'] == 'OK':
+                        last_data = res['marketData'].get(t, {}).get('LA', {})
+                        if last_data:
+                            d["last"] = last_data.get('price', "S/D")
+                except:
+                    pass
+
+            output.append({
+                "ticker": t, 
+                "bid": d["bid"], 
+                "offer": d["offer"], 
+                "last": d["last"], 
+                "timestamp": ahora_iso
+            })
 
         with open("curva_dlr.json", "w") as f:
             json.dump(output, f, indent=4)
-        print("✅ JSON actualizado con éxito.")
+        print("✅ JSON actualizado con Snapshot de cierre.")
 
     except Exception as e:
         print(f"❌ Error: {e}")
