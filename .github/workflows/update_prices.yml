@@ -3,10 +3,10 @@ name: Actualizar Precios DLR
 on:
   schedule:
     # Horario: 10:30 a 17:00 ART (UTC-3) => 13:30 a 20:00 UTC. Lunes a Viernes (1-5).
-    - cron: '30-59/20 13 * * 1-5'  # 13:30, 13:50 UTC
-    - cron: '*/20 14-19 * * 1-5'   # 14:00 a 19:40 UTC
-    - cron: '0 20 * * 1-5'         # 20:00 UTC
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: '30,50 13 * * 1-5'     # 13:30, 13:50 UTC (10:30, 10:50 ART)
+    - cron: '*/20 14-19 * * 1-5'   # 14:00 a 19:40 UTC (11:00 a 16:40 ART)
+    - cron: '0 20 * * 1-5'         # 20:00 UTC (17:00 ART)
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,12 +15,12 @@ jobs:
       contents: write
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # ← Actualizado a v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # ← Actualizado a v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'  # ← Python más reciente
 
       - name: Install dependencies
         run: pip install pyRofex python-dotenv
@@ -37,5 +37,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add curva_dlr.json
-          git commit -m "Auto-update prices: $(date)" || exit 0
+          git commit -m "Auto-update prices: $(date -u +"%Y-%m-%d %H:%M UTC")" || exit 0
           git push
