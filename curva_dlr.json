@@ -1,72 +1,72 @@
 [
     {
         "ticker": "DLR/ABR26",
-        "bid": 1400.0,
-        "offer": 1401.0,
+        "bid": 1397.0,
+        "offer": 1397.5,
         "last": "S/D",
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "timestamp": "2026-04-09T17:56:16.747726"
     },
     {
         "ticker": "DLR/MAY26",
-        "bid": 1425.0,
-        "offer": 1426.0,
+        "bid": 1422.0,
+        "offer": 1423.0,
         "last": "S/D",
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "timestamp": "2026-04-09T17:56:16.747726"
     },
     {
         "ticker": "DLR/JUN26",
-        "bid": 1456.0,
-        "offer": 1456.5,
-        "last": "S/D",
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "bid": 1452.0,
+        "offer": 1453.0,
+        "last": 1452.0,
+        "timestamp": "2026-04-09T17:56:16.747726"
     },
     {
         "ticker": "DLR/JUL26",
-        "bid": 1488.0,
-        "offer": 1490.0,
+        "bid": 1483.0,
+        "offer": 1491.0,
         "last": 1505.0,
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "timestamp": "2026-04-09T17:56:16.747726"
     },
     {
         "ticker": "DLR/AGO26",
-        "bid": 1517.0,
-        "offer": 1525.0,
+        "bid": 1512.0,
+        "offer": 1520.0,
         "last": "S/D",
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "timestamp": "2026-04-09T17:56:16.747726"
     },
     {
         "ticker": "DLR/OCT26",
-        "bid": 1584.0,
-        "offer": 1592.0,
+        "bid": 1577.0,
+        "offer": 1585.0,
         "last": "S/D",
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "timestamp": "2026-04-09T17:56:16.747726"
     },
     {
         "ticker": "DLR/NOV26",
-        "bid": 1607.0,
-        "offer": 1623.0,
+        "bid": 1610.0,
+        "offer": 1621.0,
         "last": "S/D",
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "timestamp": "2026-04-09T17:56:16.747726"
     },
     {
         "ticker": "DLR/ENE27",
         "bid": "S/D",
         "offer": "S/D",
         "last": "S/D",
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "timestamp": "2026-04-09T17:56:16.747726"
     },
     {
         "ticker": "DLR/FEB27",
-        "bid": "S/D",
+        "bid": 1650.0,
         "offer": "S/D",
         "last": "S/D",
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "timestamp": "2026-04-09T17:56:16.747726"
     },
     {
         "ticker": "DLR/MAR27",
         "bid": "S/D",
         "offer": "S/D",
         "last": "S/D",
-        "timestamp": "2026-04-09T16:43:51.063531"
+        "timestamp": "2026-04-09T17:56:16.747726"
     }
 ]
