@@ -4,69 +4,69 @@
         "bid": 1404.0,
         "offer": 1404.5,
         "last": 1404.5,
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     },
     {
         "ticker": "DLR/JUN26",
         "bid": 1429.0,
         "offer": 1432.0,
         "last": 1438.0,
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     },
     {
         "ticker": "DLR/JUL26",
         "bid": "S/D",
         "offer": 1463.0,
         "last": 1449.5,
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     },
     {
         "ticker": "DLR/AGO26",
         "bid": 1490.5,
         "offer": 1500.0,
         "last": "S/D",
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     },
     {
         "ticker": "DLR/OCT26",
         "bid": 1551.5,
         "offer": 1560.0,
         "last": "S/D",
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     },
     {
         "ticker": "DLR/NOV26",
         "bid": 1585.0,
         "offer": 1596.0,
         "last": "S/D",
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     },
     {
         "ticker": "DLR/ENE27",
         "bid": 1660.0,
         "offer": 1674.0,
         "last": "S/D",
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     },
     {
         "ticker": "DLR/FEB27",
         "bid": 1680.0,
         "offer": 1700.0,
         "last": "S/D",
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     },
     {
         "ticker": "DLR/MAR27",
         "bid": 1715.5,
         "offer": 1734.5,
         "last": 1730.0,
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     },
     {
         "ticker": "DLR/ABR27",
         "bid": 1745.0,
         "offer": 1770.0,
         "last": "S/D",
-        "timestamp": "2026-05-11T20:22:28.319397"
+        "timestamp": "2026-05-11T21:09:46.449617"
     }
 ]
