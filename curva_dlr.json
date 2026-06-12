@@ -3,63 +3,63 @@
         "ticker": "DLR/JUN26",
         "bid": 1440.0,
         "offer": 1441.0,
-        "last": 1440.0,
-        "timestamp": "2026-06-12T21:06:20.500844"
+        "last": 1441.0,
+        "timestamp": "2026-06-12T21:23:33.887141"
     },
     {
         "ticker": "DLR/JUL26",
         "bid": 1465.5,
         "offer": 1469.0,
         "last": 1469.0,
-        "timestamp": "2026-06-12T21:06:20.500844"
+        "timestamp": "2026-06-12T21:23:33.887141"
     },
     {
         "ticker": "DLR/AGO26",
         "bid": 1490.0,
         "offer": 1493.5,
         "last": 1490.0,
-        "timestamp": "2026-06-12T21:06:20.500844"
+        "timestamp": "2026-06-12T21:23:33.887141"
     },
     {
         "ticker": "DLR/OCT26",
         "bid": 1546.0,
         "offer": 1552.0,
         "last": "S/D",
-        "timestamp": "2026-06-12T21:06:20.500844"
+        "timestamp": "2026-06-12T21:23:33.887141"
     },
     {
         "ticker": "DLR/NOV26",
         "bid": 1576.0,
         "offer": 1581.0,
         "last": "S/D",
-        "timestamp": "2026-06-12T21:06:20.500844"
+        "timestamp": "2026-06-12T21:23:33.887141"
     },
     {
         "ticker": "DLR/ENE27",
         "bid": 1637.0,
         "offer": 1642.0,
         "last": "S/D",
-        "timestamp": "2026-06-12T21:06:20.500844"
+        "timestamp": "2026-06-12T21:23:33.887141"
     },
     {
         "ticker": "DLR/FEB27",
-        "bid": "S/D",
+        "bid": 1666.0,
         "offer": 1674.0,
         "last": 1660.0,
-        "timestamp": "2026-06-12T21:06:20.500844"
+        "timestamp": "2026-06-12T21:23:33.887141"
     },
     {
         "ticker": "DLR/MAR27",
         "bid": 1698.0,
         "offer": 1712.5,
         "last": "S/D",
-        "timestamp": "2026-06-12T21:06:20.500844"
+        "timestamp": "2026-06-12T21:23:33.887141"
     },
     {
         "ticker": "DLR/ABR27",
         "bid": 1730.0,
         "offer": 1747.0,
         "last": "S/D",
-        "timestamp": "2026-06-12T21:06:20.500844"
+        "timestamp": "2026-06-12T21:23:33.887141"
     }
 ]
