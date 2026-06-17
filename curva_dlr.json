@@ -4,62 +4,62 @@
         "bid": 1449.5,
         "offer": 1450.5,
         "last": 1450.5,
-        "timestamp": "2026-06-17T19:21:21.453503"
+        "timestamp": "2026-06-17T21:31:35.499791"
     },
     {
         "ticker": "DLR/JUL26",
         "bid": 1474.5,
         "offer": 1476.0,
         "last": 1476.0,
-        "timestamp": "2026-06-17T19:21:21.453503"
+        "timestamp": "2026-06-17T21:31:35.499791"
     },
     {
         "ticker": "DLR/AGO26",
-        "bid": 1452.0,
-        "offer": 1500.0,
+        "bid": "S/D",
+        "offer": 1502.5,
         "last": 1450.0,
-        "timestamp": "2026-06-17T19:21:21.453503"
+        "timestamp": "2026-06-17T21:31:35.499791"
     },
     {
         "ticker": "DLR/OCT26",
         "bid": 1552.0,
         "offer": 1558.5,
         "last": "S/D",
-        "timestamp": "2026-06-17T19:21:21.453503"
+        "timestamp": "2026-06-17T21:31:35.499791"
     },
     {
         "ticker": "DLR/NOV26",
         "bid": 1579.0,
         "offer": 1588.0,
         "last": "S/D",
-        "timestamp": "2026-06-17T19:21:21.453503"
+        "timestamp": "2026-06-17T21:31:35.499791"
     },
     {
         "ticker": "DLR/ENE27",
         "bid": 1644.0,
-        "offer": 1651.0,
+        "offer": 1650.0,
         "last": "S/D",
-        "timestamp": "2026-06-17T19:21:21.453503"
+        "timestamp": "2026-06-17T21:31:35.499791"
     },
     {
         "ticker": "DLR/FEB27",
         "bid": 1669.0,
-        "offer": 1677.0,
+        "offer": 1683.0,
         "last": "S/D",
-        "timestamp": "2026-06-17T19:21:21.453503"
+        "timestamp": "2026-06-17T21:31:35.499791"
     },
     {
         "ticker": "DLR/MAR27",
         "bid": 1707.0,
         "offer": 1712.0,
         "last": "S/D",
-        "timestamp": "2026-06-17T19:21:21.453503"
+        "timestamp": "2026-06-17T21:31:35.499791"
     },
     {
         "ticker": "DLR/ABR27",
         "bid": 1732.0,
         "offer": 1747.0,
         "last": "S/D",
-        "timestamp": "2026-06-17T19:21:21.453503"
+        "timestamp": "2026-06-17T21:31:35.499791"
     }
 ]
