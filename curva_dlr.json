@@ -2,64 +2,64 @@
     {
         "ticker": "DLR/JUN26",
         "bid": 1460.0,
-        "offer": 1466.5,
+        "offer": 1461.0,
         "last": 1466.5,
-        "timestamp": "2026-06-18T19:23:08.277186"
+        "timestamp": "2026-06-18T21:35:32.599357"
     },
     {
         "ticker": "DLR/JUL26",
-        "bid": "S/D",
+        "bid": 1486.0,
         "offer": 1487.0,
-        "last": 1484.0,
-        "timestamp": "2026-06-18T19:23:08.277186"
+        "last": 1487.0,
+        "timestamp": "2026-06-18T21:35:32.599357"
     },
     {
         "ticker": "DLR/AGO26",
         "bid": 1513.5,
         "offer": 1514.0,
         "last": 1522.0,
-        "timestamp": "2026-06-18T19:23:08.277186"
+        "timestamp": "2026-06-18T21:35:32.599357"
     },
     {
         "ticker": "DLR/OCT26",
         "bid": 1567.5,
         "offer": 1571.5,
-        "last": "S/D",
-        "timestamp": "2026-06-18T19:23:08.277186"
+        "last": 1567.5,
+        "timestamp": "2026-06-18T21:35:32.599357"
     },
     {
         "ticker": "DLR/NOV26",
         "bid": 1597.0,
         "offer": 1599.5,
         "last": 1594.5,
-        "timestamp": "2026-06-18T19:23:08.277186"
+        "timestamp": "2026-06-18T21:35:32.599357"
     },
     {
         "ticker": "DLR/ENE27",
         "bid": 1655.0,
         "offer": 1661.0,
         "last": "S/D",
-        "timestamp": "2026-06-18T19:23:08.277186"
+        "timestamp": "2026-06-18T21:35:32.599357"
     },
     {
         "ticker": "DLR/FEB27",
         "bid": 1680.0,
         "offer": 1691.0,
         "last": "S/D",
-        "timestamp": "2026-06-18T19:23:08.277186"
+        "timestamp": "2026-06-18T21:35:32.599357"
     },
     {
         "ticker": "DLR/MAR27",
         "bid": 1718.5,
         "offer": 1723.5,
         "last": "S/D",
-        "timestamp": "2026-06-18T19:23:08.277186"
+        "timestamp": "2026-06-18T21:35:32.599357"
     },
     {
         "ticker": "DLR/ABR27",
         "bid": 1740.0,
         "offer": 1755.0,
         "last": "S/D",
-        "timestamp": "2026-06-18T19:23:08.277186"
+        "timestamp": "2026-06-18T21:35:32.599357"
     }
 ]
