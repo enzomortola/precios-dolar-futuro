@@ -3,63 +3,63 @@
         "ticker": "DLR/JUN26",
         "bid": 1478.5,
         "offer": 1479.5,
-        "last": 1478.5,
-        "timestamp": "2026-06-25T18:28:30.158699"
+        "last": 1479.5,
+        "timestamp": "2026-06-25T20:34:22.324401"
     },
     {
         "ticker": "DLR/JUL26",
         "bid": 1504.5,
         "offer": 1505.0,
-        "last": 1505.0,
-        "timestamp": "2026-06-25T18:28:30.158699"
+        "last": 1504.5,
+        "timestamp": "2026-06-25T20:34:22.324401"
     },
     {
         "ticker": "DLR/AGO26",
         "bid": 1532.5,
         "offer": 1534.0,
         "last": 1533.0,
-        "timestamp": "2026-06-25T18:28:30.158699"
+        "timestamp": "2026-06-25T20:34:22.324401"
     },
     {
         "ticker": "DLR/OCT26",
         "bid": 1589.0,
-        "offer": 1593.0,
+        "offer": 1594.0,
         "last": "S/D",
-        "timestamp": "2026-06-25T18:28:30.158699"
+        "timestamp": "2026-06-25T20:34:22.324401"
     },
     {
         "ticker": "DLR/NOV26",
-        "bid": 1622.0,
+        "bid": 1621.5,
         "offer": 1625.0,
         "last": "S/D",
-        "timestamp": "2026-06-25T18:28:30.158699"
+        "timestamp": "2026-06-25T20:34:22.324401"
     },
     {
         "ticker": "DLR/ENE27",
         "bid": 1683.0,
         "offer": 1689.0,
         "last": "S/D",
-        "timestamp": "2026-06-25T18:28:30.158699"
+        "timestamp": "2026-06-25T20:34:22.324401"
     },
     {
         "ticker": "DLR/FEB27",
         "bid": 1710.5,
         "offer": 1720.0,
         "last": "S/D",
-        "timestamp": "2026-06-25T18:28:30.158699"
+        "timestamp": "2026-06-25T20:34:22.324401"
     },
     {
         "ticker": "DLR/MAR27",
         "bid": 1747.0,
         "offer": 1752.0,
         "last": "S/D",
-        "timestamp": "2026-06-25T18:28:30.158699"
+        "timestamp": "2026-06-25T20:34:22.324401"
     },
     {
         "ticker": "DLR/ABR27",
         "bid": 1675.0,
         "offer": 1785.0,
         "last": "S/D",
-        "timestamp": "2026-06-25T18:28:30.158699"
+        "timestamp": "2026-06-25T20:34:22.324401"
     }
 ]
