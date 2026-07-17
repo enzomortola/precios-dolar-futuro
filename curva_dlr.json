@@ -3,63 +3,63 @@
         "ticker": "DLR/JUL26",
         "bid": 1484.5,
         "offer": 1485.5,
-        "last": 1486.0,
-        "timestamp": "2026-07-17T18:59:35.315228"
+        "last": 1485.5,
+        "timestamp": "2026-07-17T20:09:41.015130"
     },
     {
         "ticker": "DLR/AGO26",
-        "bid": 1511.0,
+        "bid": 1508.0,
         "offer": 1512.5,
         "last": 1512.5,
-        "timestamp": "2026-07-17T18:59:35.315228"
+        "timestamp": "2026-07-17T20:09:41.015130"
     },
     {
         "ticker": "DLR/OCT26",
         "bid": 1565.5,
         "offer": 1568.0,
         "last": "S/D",
-        "timestamp": "2026-07-17T18:59:35.315228"
+        "timestamp": "2026-07-17T20:09:41.015130"
     },
     {
         "ticker": "DLR/NOV26",
         "bid": 1596.0,
         "offer": 1599.0,
         "last": "S/D",
-        "timestamp": "2026-07-17T18:59:35.315228"
+        "timestamp": "2026-07-17T20:09:41.015130"
     },
     {
         "ticker": "DLR/ENE27",
         "bid": 1655.0,
         "offer": 1658.0,
         "last": "S/D",
-        "timestamp": "2026-07-17T18:59:35.315228"
+        "timestamp": "2026-07-17T20:09:41.015130"
     },
     {
         "ticker": "DLR/FEB27",
-        "bid": 1683.0,
+        "bid": 1682.5,
         "offer": 1685.0,
         "last": "S/D",
-        "timestamp": "2026-07-17T18:59:35.315228"
+        "timestamp": "2026-07-17T20:09:41.015130"
     },
     {
         "ticker": "DLR/MAR27",
         "bid": 1714.0,
         "offer": 1719.0,
         "last": "S/D",
-        "timestamp": "2026-07-17T18:59:35.315228"
+        "timestamp": "2026-07-17T20:09:41.015130"
     },
     {
         "ticker": "DLR/ABR27",
-        "bid": 1745.0,
+        "bid": 1743.0,
         "offer": 1747.0,
         "last": "S/D",
-        "timestamp": "2026-07-17T18:59:35.315228"
+        "timestamp": "2026-07-17T20:09:41.015130"
     },
     {
         "ticker": "DLR/JUN27",
         "bid": 1810.0,
         "offer": 1814.0,
         "last": "S/D",
-        "timestamp": "2026-07-17T18:59:35.315228"
+        "timestamp": "2026-07-17T20:09:41.015130"
     }
 ]
