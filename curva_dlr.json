@@ -3,70 +3,70 @@
         "ticker": "DLR/NOV26",
         "bid": 1568.5,
         "offer": 1569.0,
-        "last": 1569.5,
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "last": 1569.0,
+        "timestamp": "2026-11-05T00:35:48.563761"
     },
     {
         "ticker": "DLR/ENE27",
         "bid": 1626.0,
         "offer": 1627.5,
         "last": 1627.5,
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "timestamp": "2026-11-05T00:35:48.563761"
     },
     {
         "ticker": "DLR/FEB27",
         "bid": 1655.0,
         "offer": 1660.0,
         "last": "S/D",
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "timestamp": "2026-11-05T00:35:48.563761"
     },
     {
         "ticker": "DLR/MAR27",
         "bid": 1689.0,
         "offer": 1692.0,
         "last": "S/D",
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "timestamp": "2026-11-05T00:35:48.563761"
     },
     {
         "ticker": "DLR/ABR27",
         "bid": 1723.0,
         "offer": 1724.0,
         "last": "S/D",
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "timestamp": "2026-11-05T00:35:48.563761"
     },
     {
         "ticker": "DLR/JUN27",
         "bid": 1786.0,
         "offer": 1790.5,
         "last": 1793.0,
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "timestamp": "2026-11-05T00:35:48.563761"
     },
     {
         "ticker": "DLR/JUL27",
         "bid": 1817.0,
         "offer": 1828.0,
         "last": "S/D",
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "timestamp": "2026-11-05T00:35:48.563761"
     },
     {
         "ticker": "DLR/AGO27",
         "bid": 1862.0,
         "offer": 1874.5,
         "last": "S/D",
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "timestamp": "2026-11-05T00:35:48.563761"
     },
     {
         "ticker": "DLR/OCT27",
-        "bid": 1951.0,
+        "bid": 1930.0,
         "offer": 2010.0,
         "last": "S/D",
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "timestamp": "2026-11-05T00:35:48.563761"
     },
     {
         "ticker": "DLR/NOV27",
         "bid": 2023.0,
         "offer": 2055.0,
         "last": "S/D",
-        "timestamp": "2026-11-04T20:38:29.102242"
+        "timestamp": "2026-11-05T00:35:48.563761"
     }
 ]
